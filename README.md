@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning JAX & TF
+- 🔭 I’m currently working on cognitive computational models
 <!--
 **Andrei-Solot/Andrei-Solot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
