@@ -1,17 +1,16 @@
-### Hi there 👋
-- 🌱 I’m currently learning JAX & TF
-- 🔭 I’m currently working on computational cognitive models
-<!--
-**Andrei-Solot/Andrei-Solot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
+class SoftwareEngineer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JAX & TF
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Andrei Solot"
+        self.role = "Machine Learning Engineer"
+        self.language_spoken = ("ro_RO", "en_GB", "it_IT")
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
