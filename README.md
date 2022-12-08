@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer:
+class MLEngineer:
 
     def __init__(self):
         self.name = "Andrei Solot"
@@ -12,5 +12,5 @@ class SoftwareEngineer:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = MLEngineer()
 me.say_hi()
