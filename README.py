@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate machine learning engineer with a 
 
 #### 🧠 Neuroscience and AI
 I'm fascinated by the complexities of the human brain and how it can be understood and simulated using AI. My work in neuroscience involves:
-- Analyzing and interpreting brain imaging data (fMRI, EEG, etc.) to unravel the mysteries of cognition and behavior
-- Applying machine learning techniques for brain-computer interfaces, neuroimaging analysis, and predictive modeling in neuroscience research
+- Analyzing and interpreting brain imaging data (fMRI, EEG, etc.) to unravel the mysteries of cognition and behaviour
+- Applying machine learning techniques for brain-computer interfaces, neuroimaging analysis, and predictive modelling in neuroscience research
 - Exploring cutting-edge techniques like deep learning and natural language processing to uncover insights from complex neural data
 
 #### 🚀 Full Stack Python Development
